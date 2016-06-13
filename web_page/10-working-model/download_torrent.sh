@@ -1,0 +1,1 @@
+transmission-remote --auth pi:ferret -a "$1"

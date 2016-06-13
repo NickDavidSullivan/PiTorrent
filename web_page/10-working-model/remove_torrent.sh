@@ -1,0 +1,1 @@
+transmission-remote --auth pi:ferret -t $1 --remove-and-delete
